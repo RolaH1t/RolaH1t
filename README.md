@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RolaH1t
-- 👀 I’m interested in **Catena-X Automotive Network**
+- 👀 I’m interested in [**Catena-X Automotive Network**](https://catena-x.net/de/)
 - 🌱 I’m currently learning GitHub stuff
-- 💞️ I’m looking to collaborate on Eclipse Foundation project: **Tractus-X**
+- 💞️ I’m looking to collaborate on Eclipse Foundation project: [**Tractus-X**](https://github.com/eclipse-tractusx)
 - 📫 Reach out via my GitHub profile
